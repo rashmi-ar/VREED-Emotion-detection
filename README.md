@@ -9,4 +9,13 @@
 * GSR+ECG+EYE.ipynb contains analysis of multimodal data.
 * Visualization.ipynb contains visualization of videos used to collect vreed dataset.
 
+## Results
+* Multimodal approach worked better than individual modalities.
+
+GSR+ECG+EYE | Quad_Cat | Arousal | Valence
+----------- | -------- | ------- | -------
+Accuracy    |   70%    |   90%   |   74%
+
+* Machine learning models like LGBM, LDA, Random Forest, Gradient Boosting Classifier gave better results.
+
 
